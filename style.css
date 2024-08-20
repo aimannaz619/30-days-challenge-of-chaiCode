@@ -1,0 +1,13 @@
+#imgContainer{
+    width: 500px;
+    height: 500px;
+    padding: 5px;
+    background-color: beige;
+    
+
+}
+#toggleImage {
+    width: 400px;
+    height: 400px;
+ 
+}
